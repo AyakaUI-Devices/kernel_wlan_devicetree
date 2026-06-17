@@ -7,6 +7,7 @@
 /plugin/;
 
 #include "alor-peach-cnss.dtsi"
+#include "wonder.dtsi"
 
 #define VANTAGE_RADIO_JAPAN 3
 
